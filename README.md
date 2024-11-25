@@ -8,4 +8,3 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-![1000193711-removebg-preview](https://github.com/user-attachments/assets/8f392c24-b0b1-48f0-8253-55906783d363)
